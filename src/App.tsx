@@ -10,6 +10,7 @@ export default function App() {
       <Practice1 />
       <Practice2 />
       <Practice3 />
+      <Practice4 />
     </div>
   );
 }
